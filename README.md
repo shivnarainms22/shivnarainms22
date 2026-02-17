@@ -52,7 +52,7 @@ I'm an **AI Researcher** and **Graduate Student** passionate about building inte
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Backend:** Microservices • REST APIs • JWT Auth • RBAC • Spring Security • Hibernate • Postman
+**Backend:** Microservices • REST APIs • JWT Auth • RBAC • Spring Security • Hibernate • Postman              
 **DevOps:** Docker • Kubernetes • Git 
 
 ---
@@ -69,7 +69,7 @@ Built an intelligent Tetris agent using Deep Reinforcement Learning with custom 
 - 🎯 Engineered board-state features (aggregate height, holes, bumpiness) with delta-based rewards
 - 📊 Trained for **1.5M timesteps** with automated evaluation pipeline
 
-**Tech Stack:** Python • PyTorch • Reinforcement Learning • GPU Computing
+**Tech Stack:** Python • PyTorch • Reinforcement Learning 
 
 ---
 
@@ -83,7 +83,7 @@ End-to-end RAG system for querying research papers with semantic search and grou
 - ⚡ Designed **FastAPI web interface** + CLI for low-latency question answering
 - 💾 Integrated **ChromaDB** for efficient vector storage and similarity search
 
-**Tech Stack:** Python • LangChain • ChromaDB • FastAPI • OpenAI • Vector Embeddings
+**Tech Stack:** Python • LangChain • ChromaDB • FastAPI • Vector Embeddings
 
 ---
 
@@ -119,7 +119,7 @@ Secure e-commerce platform with JWT authentication and optimized performance.
 **Northeastern University** | *Master of Science in Artificial Intelligence*
 📍 San Jose, CA | Sep 2025 – May 2027
 
-**APJ Abdul Kalam Technological University** | *B.Tech in Electrical & Electronics Engineering*
+**APJ Abdul Kalam Technological University** | *Bachelor of Technology in Electrical & Electronics Engineering*
 📍 Kerala, India | Oct 2020 – May 2024
 
 ---
