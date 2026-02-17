@@ -2,13 +2,11 @@
 
 <div align="center">
 
-### 🎓 MS in AI @ Northeastern University | Vision-Language-Action Models | World Models
+### 🎓 MS in AI @ Northeastern University | Machine Learning Engineer | AI Researcher
 
-*Building intelligent embodied systems that perceive, reason, and act*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/shivnarainms22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivnarain-sarin-3a5277269/)
 [![Email](https://img.shields.io/badge/Email-shivnarainms22%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivnarainms22@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/shivnarainms22?style=social)](https://github.com/shivnarainms22)
 
 </div>
 
@@ -16,12 +14,11 @@
 
 ## 🚀 About Me
 
-I'm an **AI Researcher** and **Graduate Student** passionate about building intelligent systems that bridge vision, language, and action. Currently pursuing my **Master's in Artificial Intelligence at Northeastern University** (2025-2027) with a focus on **Vision-Language-Action (VLA) models** and **World Models** for embodied AI.
+I'm an **AI Researcher** and **Graduate Student** passionate about building intelligent systems. Currently pursuing my **MS in Artificial Intelligence at Northeastern University** (2025-2027).
 
-- 🎓 MS in AI student at Northeastern University, San Jose
-- 🤖 Focused on **Vision-Language-Action (VLA) models** and **World Models**
-- 🌍 Exploring **embodied AI**, **multimodal learning**, and **model-based RL**
-- 🔬 Research interests: **Spatial reasoning**, **predictive modeling**, and **vision-language grounding**
+- 🎓 MS in AI student at Northeastern University
+- 🤖 Focused on **Vision-Language-Action (VLA) models**, **Agentic AI** **World Models**
+- 🌍 Exploring **Embodied AI**, **Multimodal learning**, and **Interpretability in AI**
 - 🛠️ Experience in **Deep Learning**, **Reinforcement Learning**, and **LLM applications**
 - ⚡ Fun fact: Trained a Tetris RL agent that predicts future game states and plans 3× better than baseline!
 
@@ -62,8 +59,8 @@ I'm an **AI Researcher** and **Graduate Student** passionate about building inte
 
 ## 🔥 Featured Projects
 
-### 🎮 [Tetris Reinforcement Learning Agent](https://github.com/shivnarainms22)
-**Deep Q-Network (DQN) | PyTorch | GPU Acceleration**
+### 🎮 [Tetris Reinforcement Learning Agent]
+**Deep Q-Network (DQN) | PyTorch**
 
 Built an intelligent Tetris agent using Deep Reinforcement Learning with custom reward shaping and GA-optimized features.
 
@@ -76,7 +73,7 @@ Built an intelligent Tetris agent using Deep Reinforcement Learning with custom 
 
 ---
 
-### 📚 [Research Paper RAG Assistant](https://github.com/shivnarainms22/Research-Paper-RAG-Assistant)
+### 📚 [Research Paper RAG Assistant]
 **Retrieval-Augmented Generation | FastAPI | LLMs**
 
 End-to-end RAG system for querying research papers with semantic search and grounded responses.
@@ -90,7 +87,7 @@ End-to-end RAG system for querying research papers with semantic search and grou
 
 ---
 
-### 🐕 [Dog Breed Identification Model](https://github.com/shivnarainms22)
+### 🐕 [Dog Breed Identification Model]
 **Transfer Learning | TensorFlow | Computer Vision**
 
 Multiclass image classification using transfer learning on 10k+ images.
@@ -103,7 +100,7 @@ Multiclass image classification using transfer learning on 10k+ images.
 
 ---
 
-### 🛒 [Online Bookstore](https://github.com/shivnarainms22)
+### 🛒 [Online Bookstore]
 **Full-Stack E-commerce | Spring Boot | React**
 
 Secure e-commerce platform with JWT authentication and optimized performance.
@@ -141,16 +138,9 @@ Secure e-commerce platform with JWT authentication and optimized performance.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivnarain_Sarin-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shivnarainms22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivnarain_Sarin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivnarain-sarin-3a5277269/)
 [![Email](https://img.shields.io/badge/Email-shivnarainms22%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivnarainms22@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-shivnarainms22-181717?style=for-the-badge&logo=github)](https://github.com/shivnarainms22)
 
 ---
 
-### 💭 *"Teaching machines to see, understand, and act in the world"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=shivnarainms22&color=blueviolet&style=flat-square)
-
-⭐️ From [shivnarainms22](https://github.com/shivnarainms22)
-
-</div>
