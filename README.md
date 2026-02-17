@@ -52,8 +52,8 @@ I'm an **AI Researcher** and **Graduate Student** passionate about building inte
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Backend:** Microservices • REST APIs • JWT Auth • RBAC • Spring Security • Hibernate
-**DevOps:** Docker • Kubernetes • Git • Postman
+**Backend:** Microservices • REST APIs • JWT Auth • RBAC • Spring Security • Hibernate • Postman
+**DevOps:** Docker • Kubernetes • Git 
 
 ---
 
