@@ -17,7 +17,7 @@
 I'm an **AI Researcher** and **Graduate Student** passionate about building intelligent systems. Currently pursuing my **MS in Artificial Intelligence at Northeastern University** (2025-2027).
 
 - 🎓 MS in AI student at Northeastern University
-- 🤖 Focused on **Vision-Language-Action (VLA) models**, **Agentic AI** **World Models**
+- 🤖 Focused on **Vision-Language-Action (VLA) models**, **Agentic AI**, and **World Models**
 - 🌍 Exploring **Embodied AI**, **Multimodal learning**, and **Interpretability in AI**
 - 🛠️ Experience in **Deep Learning**, **Reinforcement Learning**, and **LLM applications**
 - ⚡ Fun fact: Trained a Tetris RL agent that predicts future game states and plans 3× better than baseline!
@@ -41,7 +41,7 @@ I'm an **AI Researcher** and **Graduate Student** passionate about building inte
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **Research Focus:** Vision-Language-Action Models • World Models • Embodied AI • Multimodal Learning
-**Specializations:** LLMs • RAG • Reinforcement Learning • Deep Learning • Transfer Learning • Computer Vision
+**Experimenting With:** LLMs • RAG • Reinforcement Learning • Deep Learning • Agentic AI • Computer Vision
 
 ### Frameworks & Tools
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
