@@ -40,7 +40,7 @@ I'm an **AI Researcher** and **Graduate Student** passionate about building inte
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Research Focus:** Vision-Language-Action Models • World Models • Embodied AI • Multimodal Learning
+**Research Focus:** Vision-Language-Action Models • World Models • Embodied AI • Multimodal Learning    
 **Experimenting With:** LLMs • RAG • Reinforcement Learning • Deep Learning • Agentic AI • Computer Vision
 
 ### Frameworks & Tools
