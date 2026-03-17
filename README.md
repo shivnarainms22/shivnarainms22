@@ -43,7 +43,7 @@ I'm an **AI Engineer & Researcher** passionate about building intelligent system
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Research Focus:** Vision-Language-Action Models • World Models • Embodied AI • Multimodal Learning
+**Research Focus:** Vision-Language-Action Models • World Models • Embodied AI • Multimodal Learning    
 **Building With:** Agentic AI • LLMs • RAG • Reinforcement Learning • Computer Vision
 
 ### Frameworks & Tools
