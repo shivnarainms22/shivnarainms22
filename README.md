@@ -58,7 +58,7 @@ I'm an **AI Engineer & Researcher** passionate about building intelligent system
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Backend:** Microservices • REST APIs • JWT Auth • RBAC • Spring Security • SQLAlchemy
+**Backend:** Microservices • REST APIs • JWT Auth • RBAC • Spring Security • SQLAlchemy                            
 **DevOps:** Docker • Kubernetes • AWS • Git • Postman
 
 ---
