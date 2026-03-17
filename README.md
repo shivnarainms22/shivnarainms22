@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### 🎓 MS in AI @ Northeastern University | Machine Learning Engineer | AI Researcher
+### 🎓 MS in AI @ Northeastern University | AI Engineer & Researcher
 
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-shivnarainms22.github.io-000000?style=flat&logo=github-pages&logoColor=white)](https://shivnarainms22.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivnarain-sarin-3a5277269/)
 [![Email](https://img.shields.io/badge/Email-shivnarainms22%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivnarainms22@gmail.com)
 
@@ -14,13 +14,13 @@
 
 ## 🚀 About Me
 
-I'm an **AI Researcher** and **Graduate Student** passionate about building intelligent systems. Currently pursuing my **MS in Artificial Intelligence at Northeastern University** (2025-2027).
+I'm an **AI Engineer & Researcher** passionate about building intelligent systems from the ground up. Currently pursuing my **MS in Artificial Intelligence at Northeastern University** (2025-2027).
 
-- 🎓 MS in AI student at Northeastern University
-- 🤖 Focused on **Vision-Language-Action (VLA) models**, **Agentic AI**, and **World Models**
+- 🤖 Focused on **Agentic AI**, **Vision-Language-Action (VLA) models**, and **World Models**
 - 🌍 Exploring **Embodied AI**, **Multimodal learning**, and **Interpretability in AI**
 - 🛠️ Experience in **Deep Learning**, **Reinforcement Learning**, and **LLM applications**
-- ⚡ Fun fact: Trained a Tetris RL agent that predicts future game states and plans 3× better than baseline!
+- 🔬 Building end-to-end systems: from autonomous research pipelines to AI-powered stock analysis
+- ⚡ Fun fact: Built an autonomous research agent that discovers papers, runs experiments in Docker sandboxes, and writes weekly reports!
 
 ---
 
@@ -30,36 +30,72 @@ I'm an **AI Researcher** and **Graduate Student** passionate about building inte
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ### AI/ML & Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Research Focus:** Vision-Language-Action Models • World Models • Embodied AI • Multimodal Learning    
-**Experimenting With:** LLMs • RAG • Reinforcement Learning • Deep Learning • Agentic AI • Computer Vision
+**Research Focus:** Vision-Language-Action Models • World Models • Embodied AI • Multimodal Learning
+**Building With:** Agentic AI • LLMs • RAG • Reinforcement Learning • Computer Vision
 
 ### Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Backend:** Microservices • REST APIs • JWT Auth • RBAC • Spring Security • Hibernate • Postman              
-**DevOps:** Docker • Kubernetes • Git 
+**Backend:** Microservices • REST APIs • JWT Auth • RBAC • Spring Security • SQLAlchemy
+**DevOps:** Docker • Kubernetes • AWS • Git • Postman
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🎮 [Tetris Reinforcement Learning Agent]
+### 🔬 [Research Agent](https://github.com/shivnarainms22/Research-Agent)
+**Autonomous Research Pipeline | Claude API | Docker**
+
+Autonomous research system that discovers papers from arXiv and Semantic Scholar, analyzes them with AI, runs experiments in Docker sandboxes or Modal cloud GPUs, and generates weekly narrative reports.
+
+- 🧠 Built a **5-stage pipeline**: Ingestion → Synthesis → Experiments → Analysis → Reporting
+- 🔗 Maintains a **knowledge graph** (NetworkX) with **hybrid retrieval** (BM25 + vector RRF)
+- 🔒 Experiment **safety gates**: AST validation, Bandit scan, auto-fix, human approval, Docker isolation
+- 📊 Statistical analysis with **confidence intervals**, **t-tests**, and **Cohen's d**
+- 🖥️ **Streamlit web UI**, **Typer CLI**, and **APScheduler daemon** for automated research cycles
+
+**Tech Stack:** Python • Claude API • ChromaDB • Docker • Modal • Streamlit • NetworkX • SQLite
+
+---
+
+### 📈 [StockX](https://github.com/shivnarainms22/StockX)
+**AI-Powered Stock Analysis | ReAct Reasoning | LLMs**
+
+Local AI-powered stock analysis app with a ReAct reasoning loop, technical and fundamental analysis, portfolio P&L tracking, sector heatmaps, and real-time alerts.
+
+- 🤖 **ReAct reasoning loop** with **multi-provider LLM fallover** (NVIDIA NIM → Claude → GPT)
+- 💾 Persistent **ChromaDB vector memory** with JSONL fallback
+- 📊 Scored recommendations (STRONG BUY to AVOID), sector screening, and earnings calendar
+- 📰 Financial news aggregation with **sentiment scoring**
+- 🎨 Fintech-style dark GUI built with **PyQt** and **matplotlib** charting
+
+**Tech Stack:** Python • PyQt • ChromaDB • yfinance • LLMs • matplotlib
+
+---
+
+### 🎮 [Tetris Reinforcement Learning Agent](https://github.com/shivnarainms22/Tetris-RL-Agent)
 **Deep Q-Network (DQN) | PyTorch**
 
 Built an intelligent Tetris agent using Deep Reinforcement Learning with custom reward shaping and GA-optimized features.
@@ -73,7 +109,7 @@ Built an intelligent Tetris agent using Deep Reinforcement Learning with custom 
 
 ---
 
-### 📚 [Research Paper RAG Assistant]
+### 📚 [Research Paper RAG Assistant](https://github.com/shivnarainms22/Research-Paper-RAG-Assistant)
 **Retrieval-Augmented Generation | FastAPI | LLMs**
 
 End-to-end RAG system for querying research papers with semantic search and grounded responses.
@@ -87,7 +123,7 @@ End-to-end RAG system for querying research papers with semantic search and grou
 
 ---
 
-### 🐕 [Dog Breed Identification Model]
+### 🐕 [Dog Breed Identification Model](https://github.com/shivnarainms22)
 **Transfer Learning | TensorFlow | Computer Vision**
 
 Multiclass image classification using transfer learning on 10k+ images.
@@ -100,7 +136,7 @@ Multiclass image classification using transfer learning on 10k+ images.
 
 ---
 
-### 🛒 [Online Bookstore]
+### 🛒 [Online Bookstore](https://github.com/shivnarainms22/E-Bookstore)
 **Full-Stack E-commerce | Spring Boot | React**
 
 Secure e-commerce platform with JWT authentication and optimized performance.
@@ -138,9 +174,11 @@ Secure e-commerce platform with JWT authentication and optimized performance.
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-shivnarainms22.github.io-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://shivnarainms22.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivnarain_Sarin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivnarain-sarin-3a5277269/)
 [![Email](https://img.shields.io/badge/Email-shivnarainms22%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivnarainms22@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-shivnarainms22-181717?style=for-the-badge&logo=github)](https://github.com/shivnarainms22)
 
 ---
 
+</div>
