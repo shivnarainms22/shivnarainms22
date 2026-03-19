@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm an **AI Engineer & Researcher** passionate about building intelligent systems from the ground up.
+I'm an AI engineer building systems that reason, plan, and learn. Background in electrical engineering and full-stack dev.
 
 - 🌍 Exploring **Interpretability in AI**, **Vision-Language-Action (VLA) models**, and **World Models**
 - 🛠️ Experience in **Agentic AI**, **Deep Learning**, **Reinforcement Learning**, and **LLM applications**
