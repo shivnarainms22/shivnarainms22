@@ -115,33 +115,6 @@ End-to-end RAG system for querying research papers with semantic search and grou
 
 ---
 
-### 🐕 [Dog Breed Identification Model](https://github.com/shivnarainms22/Dog-Breed-Identification-Model)
-**Transfer Learning | TensorFlow | Computer Vision**
-
-Multiclass image classification using transfer learning on 10k+ images.
-
-- 🎯 Achieved **88% validation accuracy** using **MobileNetV2** fine-tuning
-- 🔄 Applied data augmentation, normalization, and regularization techniques
-- 📊 Evaluated with confusion matrix analysis and learning rate scheduling
-
-**Tech Stack:** Python • TensorFlow • Keras • Google Colab • Transfer Learning
-
----
-
-### 🛒 [Online Bookstore](https://github.com/shivnarainms22/E-Bookstore)
-**Full-Stack E-commerce | Spring Boot | React**
-
-Secure e-commerce platform with JWT authentication and optimized performance.
-
-- 🔐 Implemented **JWT-based authentication** and **RBAC** for secure access control
-- ⚡ Reduced **checkout latency by 40%** through optimized SQL queries
-- 🏗️ Designed modular **Controller–Service–Repository** architecture
-- 🐳 Containerized with **Docker** for multi-container deployment
-
-**Tech Stack:** Java • Spring Boot • React • MySQL • Docker • JWT • REST APIs
-
----
-
 ## 🎓 Education
 
 **Northeastern University** | *Master of Science in Artificial Intelligence*
