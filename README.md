@@ -12,9 +12,8 @@
 
 I'm an **AI Engineer & Researcher** passionate about building intelligent systems from the ground up.
 
-- 🤖 Focused on **Agentic AI**, **Vision-Language-Action (VLA) models**, and **World Models**
-- 🌍 Exploring **Embodied AI**, **Multimodal Learning**, and **Interpretability in AI**
-- 🛠️ Experience in **Deep Learning**, **Reinforcement Learning**, and **LLM applications**
+- 🌍 Exploring **Interpretability in AI**, **Vision-Language-Action (VLA) models**, and **World Models**
+- 🛠️ Experience in **Agentic AI**, **Deep Learning**, **Reinforcement Learning**, and **LLM applications**
 - 🔬 Building end-to-end systems: from autonomous research pipelines to AI-powered stock analysis
 - ⚡ Fun fact: Built an autonomous research agent that discovers papers, runs experiments in Docker sandboxes, and writes weekly reports!
 
