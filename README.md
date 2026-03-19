@@ -123,7 +123,7 @@ End-to-end RAG system for querying research papers with semantic search and grou
 
 ---
 
-### 🐕 [Dog Breed Identification Model](https://github.com/shivnarainms22)
+### 🐕 [Dog Breed Identification Model](https://github.com/shivnarainms22/Dog-Breed-Identification-Model)
 **Transfer Learning | TensorFlow | Computer Vision**
 
 Multiclass image classification using transfer learning on 10k+ images.
