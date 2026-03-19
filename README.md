@@ -159,7 +159,6 @@ Secure e-commerce platform with JWT authentication and optimized performance.
 [![Portfolio](https://img.shields.io/badge/Portfolio-shivnarainms22.github.io-000000?style=for-the-badge&logo=github-pages&logoColor=white)](https://shivnarainms22.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivnarain_Sarin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shivnarain-sarin-3a5277269/)
 [![Email](https://img.shields.io/badge/Email-shivnarainms22%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivnarainms22@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-shivnarainms22-181717?style=for-the-badge&logo=github)](https://github.com/shivnarainms22)
 
 ---
 
