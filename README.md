@@ -4,20 +4,16 @@
 
 ### 🎓 MS in AI @ Northeastern University | AI Engineer & Researcher
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-shivnarainms22.github.io-000000?style=flat&logo=github-pages&logoColor=white)](https://shivnarainms22.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivnarain-sarin-3a5277269/)
-[![Email](https://img.shields.io/badge/Email-shivnarainms22%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivnarainms22@gmail.com)
-
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm an **AI Engineer & Researcher** passionate about building intelligent systems from the ground up. Currently pursuing my **MS in Artificial Intelligence at Northeastern University** (2025-2027).
+I'm an **AI Engineer & Researcher** passionate about building intelligent systems from the ground up.
 
 - 🤖 Focused on **Agentic AI**, **Vision-Language-Action (VLA) models**, and **World Models**
-- 🌍 Exploring **Embodied AI**, **Multimodal learning**, and **Interpretability in AI**
+- 🌍 Exploring **Embodied AI**, **Multimodal Learning**, and **Interpretability in AI**
 - 🛠️ Experience in **Deep Learning**, **Reinforcement Learning**, and **LLM applications**
 - 🔬 Building end-to-end systems: from autonomous research pipelines to AI-powered stock analysis
 - ⚡ Fun fact: Built an autonomous research agent that discovers papers, runs experiments in Docker sandboxes, and writes weekly reports!
@@ -43,9 +39,6 @@ I'm an **AI Engineer & Researcher** passionate about building intelligent system
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Research Focus:** Vision-Language-Action Models • World Models • Embodied AI • Multimodal Learning    
-**Building With:** Agentic AI • LLMs • RAG • Reinforcement Learning • Computer Vision
-
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -57,9 +50,6 @@ I'm an **AI Engineer & Researcher** passionate about building intelligent system
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-**Backend:** Microservices • REST APIs • JWT Auth • RBAC • Spring Security • SQLAlchemy                            
-**DevOps:** Docker • Kubernetes • AWS • Git • Postman
 
 ---
 
@@ -157,16 +147,6 @@ Secure e-commerce platform with JWT authentication and optimized performance.
 
 **APJ Abdul Kalam Technological University** | *Bachelor of Technology in Electrical & Electronics Engineering*
 📍 Kerala, India | Oct 2020 – May 2024
-
----
-
-## 🌟 Current Research Interests
-
-- 🔭 **Vision-Language-Action (VLA) Models**: Building multimodal systems that ground language in visual perception and physical actions
-- 🌍 **World Models**: Developing predictive models for planning and decision-making in complex environments
-- 🤖 **Embodied AI**: Exploring spatial reasoning, scene understanding, and vision-language grounding for intelligent agents
-- 🧠 **Model-Based RL**: Integrating learned world models with reinforcement learning for sample-efficient planning
-- 💡 **Multimodal Learning**: Bridging vision, language, and action representations for unified intelligence
 
 ---
 
