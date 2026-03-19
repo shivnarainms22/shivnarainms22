@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🎓 MS in AI @ Northeastern University | AI Engineer & Researcher
+### AI Engineer & Researcher
 
 </div>
 
