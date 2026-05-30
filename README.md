@@ -12,10 +12,10 @@
 
 I'm an AI engineer building systems that reason, plan, and learn, from language model architecture research to autonomous agentic pipelines. Background in electrical engineering and full-stack development.
 
-- 🔬 Researching **language model architectures**: state space models, masked diffusion, attention mechanisms, and optimizers
-- 🛠️ Building **Agentic AI**, **LLM applications**, **Deep Learning**, and **Reinforcement Learning** systems
-- 🏗️ Training models from scratch on HPC clusters and shipping production full-stack AI products
-- ⚡ Fun fact: Built an autonomous research agent that discovers papers, runs experiments in Docker sandboxes, and writes weekly reports!
+- Researching **language model architectures**: state space models, masked diffusion, attention mechanisms, and optimizers
+- Building **Agentic AI**, **LLM applications**, **Deep Learning**, and **Reinforcement Learning** systems
+- Training models from scratch on HPC clusters and shipping production full-stack AI products
+- Fun fact: Built an autonomous research agent that discovers papers, runs experiments in Docker sandboxes, and writes weekly reports!
 
 ---
 
@@ -62,10 +62,10 @@ I'm an AI engineer building systems that reason, plan, and learn, from language 
 
 Controlled reproduction study replacing the Transformer/DiT denoiser in masked diffusion language models (MDLM) with a bidirectional Mamba-2 backbone.
 
-- 🔬 Trained **5 models (50M to 130M params)** on OpenWebText on an A100 HPC cluster, with hypothesis pinning before results collection
-- 📊 Full ablation: 130M Transformer vs BiMamba-2 (val PPL 70.45 vs 85.91), scaling study, and LR fairness sweep
-- 🎯 Retrained 130M BiMamba at tuned LR (val PPL 79.26), closing **43% of the quality gap**
-- ⚡ Inference benchmark showing **3.12x throughput speedup** over flash-attn DiT at 32K tokens, reproducing DiffuApriel (arXiv 2511.15927) at small scale
+- Trained **5 models (50M to 130M params)** on OpenWebText on an A100 HPC cluster, with hypothesis pinning before results collection
+- Full ablation: 130M Transformer vs BiMamba-2 (val PPL 70.45 vs 85.91), scaling study, and LR fairness sweep
+- Retrained 130M BiMamba at tuned LR (val PPL 79.26), closing **43% of the quality gap**
+- Inference benchmark showing **3.12x throughput speedup** over flash-attn DiT at 32K tokens, reproducing DiffuApriel (arXiv 2511.15927) at small scale
 
 **Tech Stack:** Python • PyTorch • Mamba-2 • MDLM • Flash-Attn • SLURM
 
@@ -76,10 +76,10 @@ Controlled reproduction study replacing the Transformer/DiT denoiser in masked d
 
 A 275M parameter language model trained from scratch with Multi-head Latent Attention (MLA) and the Muon optimizer, benchmarked against TinyLlama-1.1B.
 
-- 🏗️ Implemented **Multi-head Latent Attention** and the **Muon optimizer** (Newton-Schulz orthogonalization)
-- 📚 Trained on **1B tokens** of FineWeb-Edu (20k steps); published to [Hugging Face](https://huggingface.co/Shiv-22/tinylm)
-- 📊 **53.8% on ARC-Easy**, within 1.9% of TinyLlama-1.1B at roughly 4x fewer parameters
-- 📈 Full training run tracked on Weights & Biases
+- Implemented **Multi-head Latent Attention** and the **Muon optimizer** (Newton-Schulz orthogonalization)
+- Trained on **1B tokens** of FineWeb-Edu (20k steps); published to [Hugging Face](https://huggingface.co/Shiv-22/tinylm)
+- **53.8% on ARC-Easy**, within 1.9% of TinyLlama-1.1B at roughly 4x fewer parameters
+- Full training run tracked on Weights & Biases
 
 **Tech Stack:** Python • PyTorch • Hugging Face • WandB • SLURM
 
@@ -90,25 +90,25 @@ A 275M parameter language model trained from scratch with Multi-head Latent Atte
 
 Autonomous research system that discovers papers from arXiv and Semantic Scholar, analyzes them with AI, runs experiments in Docker sandboxes or Modal cloud GPUs, and generates weekly narrative reports.
 
-- 🧠 Built a **5-stage pipeline**: Ingestion → Synthesis → Experiments → Analysis → Reporting
-- 🔗 Maintains a **knowledge graph** (NetworkX) with **hybrid retrieval** (BM25 + vector RRF)
-- 🔒 Experiment **safety gates**: AST validation, Bandit scan, auto-fix, human approval, Docker isolation
-- 📊 Statistical analysis with **confidence intervals**, **t-tests**, and **Cohen's d**
-- 🖥️ **Streamlit web UI**, **Typer CLI**, and **APScheduler daemon** for automated research cycles
+- Built a **5-stage pipeline**: Ingestion → Synthesis → Experiments → Analysis → Reporting
+- Maintains a **knowledge graph** (NetworkX) with **hybrid retrieval** (BM25 + vector RRF)
+- Experiment **safety gates**: AST validation, Bandit scan, auto-fix, human approval, Docker isolation
+- Statistical analysis with **confidence intervals**, **t-tests**, and **Cohen's d**
+- **Streamlit web UI**, **Typer CLI**, and **APScheduler daemon** for automated research cycles
 
 **Tech Stack:** Python • Claude API • ChromaDB • Docker • Modal • Streamlit • NetworkX • SQLite
 
 ---
 
-### 🎙️ [TwinMind Pro](https://github.com/shivnarainms22/TM-Pro)
+### 🎙️ [TM Pro](https://github.com/shivnarainms22/TM-Pro)
 **Real-Time AI Meeting Copilot | Next.js | Dual-Stream Capture**
 
 Real-time AI meeting copilot that captures both sides of a web meeting, transcribes each stream independently, and surfaces context-aware suggestions live.
 
-- 🎧 **Dual-stream capture**: microphone and browser tab audio on two parallel MediaRecorder pipelines, flushed and transcribed concurrently every 30s
-- 🗣️ **Speaker-labeled transcription** (You / Them) via Groq Whisper Large V3
-- 💡 **Context-aware suggestions** every 30s using speaker attribution, recency bias, type diversity, and anti-repetition prompting
-- 🔄 Streaming answers via native **fetch + Web Streams SSE** through Next.js API routes, with two Zustand stores and typed per-stream error handling
+- **Dual-stream capture**: microphone and browser tab audio on two parallel MediaRecorder pipelines, flushed and transcribed concurrently every 30s
+- **Speaker-labeled transcription** (You / Them) via Groq Whisper Large V3
+- **Context-aware suggestions** every 30s using speaker attribution, recency bias, type diversity, and anti-repetition prompting
+- Streaming answers via native **fetch + Web Streams SSE** through Next.js API routes, with two Zustand stores and typed per-stream error handling
 
 **Tech Stack:** TypeScript • Next.js • Tailwind CSS • Zustand • Groq API • Web Streams
 
